@@ -92,12 +92,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.214.219:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <url>http://ec2-3-15-150-73.us-east-2.compute.amazonaws.com:9980/mithuntechnologies/repository/paytm-Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.214.219:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <url>http://ec2-3-15-150-73.us-east-2.compute.amazonaws.com:9980/mithuntechnologies/repository/paytm-snapshopt/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
